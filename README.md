@@ -67,11 +67,11 @@ A curated comparison of enterprise shopping assistants, price history trackers, 
 
 ## 💻 Open-Source GitHub Projects
 
-Explore community-driven price tracking systems, self-hosted alert monitors, and privacy-first browser extensions. Each open-source project includes a live GitHub star badge linking directly to its stargazers page, sorted by star count in descending order.
+Explore community-driven price tracking systems, self-hosted alert monitors, and privacy-first browser extensions. Each open-source project includes a live GitHub Stars_Badge linking directly to its stargazers page, sorted by Stars_Count in descending order.
 
 ### 📦 Standalone Trackers & Extensions
 
-| 🏷️ Project | ⭐ Stars | 📖 Description |
+| 🏷️ Project | ⭐ GitHub_Stars | 📖 Description |
 | :--- | :--- | :--- |
 | **[Huginn (`huginn/huginn`)](https://github.com/huginn/huginn)** | <a href="https://github.com/huginn/huginn/stargazers"><img src="https://img.shields.io/github/stars/huginn/huginn?style=social&color=white" alt="Huginn Stars"/></a> | Self-hosted automation agent system capable of scraping e-commerce product pages, tracking price deltas, and triggering custom webhook or email deal alerts. |
 | **[Changedetection.io (`dgtlmoon/changedetection.io`)](https://github.com/dgtlmoon/changedetection.io)** | <a href="https://github.com/dgtlmoon/changedetection.io/stargazers"><img src="https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white" alt="Changedetection.io Stars"/></a> | Self-hosted web page and e-commerce price monitor featuring visual selector targeting, Playwright JS rendering, restock detection, and multi-channel notifications. |
@@ -94,7 +94,7 @@ Explore community-driven price tracking systems, self-hosted alert monitors, and
 
 Tools commonly leveraged by developers to construct custom price comparison engines, scraping pipelines, and browser shopping assistants:
 
-| 🧰 Framework / Engine | ⭐ Stars | 📖 Description |
+| 🧰 Framework / Engine | ⭐ GitHub_Stars | 📖 Description |
 | :--- | :--- | :--- |
 | **[n8n (`n8n-io/n8n`)](https://github.com/n8n-io/n8n)** | <a href="https://github.com/n8n-io/n8n/stargazers"><img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="n8n Stars"/></a> | Self-hosted workflow automation platform ideal for orchestrating scheduled price checks, comparing retailer feeds, and pushing alerts. |
 | **[Playwright (`microsoft/playwright`)](https://github.com/microsoft/playwright)** | <a href="https://github.com/microsoft/playwright/stargazers"><img src="https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white" alt="Playwright Stars"/></a> | Cross-browser automation library essential for rendering dynamic carts, testing coupons, and extracting localized e-commerce pricing. |
@@ -115,7 +115,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/new-tool`).
 3. 📝 **Add/edit entries in `README.md`** following the existing tabular structure.
-4. 💡 Ensure you include: tool name, official URL, transparent pricing, free tier limits, company valuation or star count badge, and a neutral description.
+4. 💡 Ensure you include: tool name, official URL, transparent pricing, free tier limits, company valuation or Stars_Count badge, and a neutral description.
 5. 🚀 **Submit a Pull Request** with a brief summary of what you added or updated.
 
 ---
