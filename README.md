@@ -44,65 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[PayPal Honey](https://joinhoney.com)**  
-
-  Popular browser extension that automatically searches and applies promo codes at checkout while offering Amazon price history tracking and Droplist alerts.
-
-
-
-- **[Capital One Shopping](https://capitaloneshopping.com)**  
-
-  Browser add-on and web portal comparing real-time prices across competing retailers, factoring in shipping and tax, and applying coupon codes automatically.
-
-
-
-- **[CamelCamelCamel](https://camelcamelcamel.com)**  
-
-  Long-running Amazon price tracker providing historical price charts, third-party seller comparisons, and email or RSS price-drop alerts via the Camelizer extension.
-
-
-
-- **[Keepa](https://keepa.com)**  
-
-  Detailed Amazon price history extension embedding interactive price-drop graphs, Lightning Deal trackers, and international Amazon marketplace comparisons directly onto product pages.
-
-
-
-- **[PriceZombie (Historical / Legacy Reference)](https://wikipedia.org)**  
-
-  Notable early browser extension and price-comparison aggregator that tracked multi-retailer price histories and alerted shoppers to fake discounts before shutting down.
-
-
-
-- **[InvisibleHand](https://getinvisiblehand.com)**  
-
-  Discreet browser extension that displays a non-intrusive notification banner whenever a viewed product, flight, or hotel is available cheaper on another site.
-
-
-
-- **[PriceSpy (Prisjakt)](https://pricespy.co.uk)**  
-
-  Comprehensive European price and product comparison engine indexing millions of offers, shipping costs, historical price curves, and verified store reviews.
-
-
-
-- **[Idealo](https://idealo.co.uk)**  
-
-  Leading European price comparison platform and mobile/browser tool tracking live retailer pricing, dynamic price alerts, and historical pricing trends.
-
-
-
-- **[Klarna (Browser Extension & Shopping App)](https://klarna.com)**  
-
-  Shopping assistant and browser extension offering cross-store price comparisons, price-drop notifications, automatic coupon testing, and flexible checkout options.
-
-
-
-- **[Rakuten (Cash Back & Price Comparison Extension)](https://rakuten.com)**  
-
-  Browser extension combining automatic promo code application, cross-merchant price comparison alerts, and affiliate cashback rewards across thousands of stores.
+| Company / Product | Company Size (Valuation / Revenue) | Pricing | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Capital One Shopping](https://capitaloneshopping.com)** | Valuation: ~$115B (Market Cap) / Revenue: ~$69.3B (Parent: Capital One Financial Corp.) | $0 / Free | Free forever; unlimited coupon code discovery and real-time merchant comparisons across 30,000+ supported stores. | Browser add-on and web portal comparing real-time prices across competing retailers, factoring in shipping and tax, and applying coupon codes automatically. |
+| **[PayPal Honey](https://joinhoney.com)** | Valuation: ~$45B (Market Cap) / Revenue: ~$33.2B (Parent: PayPal Holdings; acquired for $4B) | $0 / Free | Free forever; unlimited automated promo code testing, coupon discovery, and Droplist price tracking for consumers. | Popular browser extension that automatically searches and applies promo codes at checkout while offering Amazon price history tracking and Droplist alerts. |
+| **[Rakuten](https://rakuten.com)** | Valuation: ~$8.5B (Market Cap) / Revenue: ~$17.1B (Parent: Rakuten Group, Inc.) | $0 / Free | Free forever; unlimited browser cash-back activation, promo code application, and automated deal notifications across 3,500+ stores. | Browser extension combining automatic promo code application, cross-merchant price comparison alerts, and affiliate cashback rewards across thousands of stores. |
+| **[Klarna](https://klarna.com)** | Valuation: ~$5.0B (Market Cap) / Revenue: ~$4.1B | $0 / Free (Core Extension & App) | Free forever; unlimited cross-store price comparison alerts, coupon finder, and price-drop tracking (optional Pay in 4 credit features apply fees/interest on late payments). | Shopping assistant and browser extension offering cross-store price comparisons, price-drop notifications, automatic coupon testing, and flexible checkout options. |
+| **[Idealo](https://idealo.co.uk)** | Revenue: ~$300M+ (Parent: Axel Springer, valued at ~$15B) | $0 / Free | Free forever; unlimited product searches, price history graphs, and email price alerts across 50,000+ online merchants. | Leading European price comparison platform and mobile/browser tool tracking live retailer pricing, dynamic price alerts, and historical pricing trends. |
+| **[PriceSpy (Prisjakt)](https://pricespy.co.uk)** | Valuation: ~SEK 675M (~$62M) / Revenue: ~SEK 529M (~$49M) (Parent: eEquity / Nasdaq First North) | $0 / Free | Free forever; unlimited product comparisons, multi-store price history charts, and push/email price-drop alerts. | Comprehensive European price and product comparison engine indexing millions of offers, shipping costs, historical price curves, and verified store reviews. |
+| **[Keepa](https://keepa.com)** | Bootstrapped / Estimated Revenue: ~$15M–$25M | €29/month (~$31/month) or €290/year; API starts at €49/month | Free forever: embeds basic 90-day price history graphs and allows tracking up to 200 items (locks Sales Rank history, Buy Box statistics, and bulk export behind €29/mo Pro). | Detailed Amazon price history extension embedding interactive price-drop graphs, Lightning Deal trackers, and international Amazon marketplace comparisons directly onto product pages. |
+| **[CamelCamelCamel](https://camelcamelcamel.com)** | Bootstrapped / Estimated Revenue: ~$5M–$10M (Cosmic Shovel, Inc.) | $0 / Free | Free forever; unlimited Amazon price history lookups, wishlist tracking imports, and email/RSS price-drop alerts. | Long-running Amazon price tracker providing historical price charts, third-party seller comparisons, and email or RSS price-drop alerts via the Camelizer extension. |
+| **[InvisibleHand](https://getinvisiblehand.com)** | Acquired (Deal size: ~$300K, via Skimlinks / CNET Shopping) | $0 / Free | Free forever; unlimited automated competitor price comparison alerts across retailers, flights, and hotels. | Discreet browser extension that displays a non-intrusive notification banner whenever a viewed product, flight, or hotel is available cheaper on another site. |
+| **[PriceZombie](https://wikipedia.org)** | Bootstrapped / Historical (Shut down 2016) | $0 / Free (Historical) | Free forever until service retirement in 2016; supported tracking unlimited product price histories across supported retail stores. | Notable early browser extension and price-comparison aggregator that tracked multi-retailer price histories and alerted shoppers to fake discounts before shutting down. |
 
 
 
